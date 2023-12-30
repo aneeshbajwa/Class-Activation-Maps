@@ -8,7 +8,7 @@ Class Activation Maps are a visualization technique that helps interpret CNNs by
 ## Installation
 To use this implementation, clone the repository:
 
-'''git clone https://github.com/your_username/class-activation-maps.git'''
+```git clone https://github.com/aneeshbajwa/Class-Activation-Maps.git```
 
 ## Examples
 
